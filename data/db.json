@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusamus adipisci consectetur cumque debitis error facilis incidunt ipsum, libero minima modi nesciunt omnis, perspiciatis porro quas quisquam repellendus totam voluptatibus.",
+      "tags": [
+        "webdev",
+        "coding",
+        "new"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 css tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusamus adipisci consectetur cumque debitis error facilis incidunt ipsum, libero minima modi nesciunt omnis, perspiciatis porro quas quisquam repellendus totam voluptatibus.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "ddd",
+      "body": "dd",
+      "tags": [
+        "dd",
+        "22",
+        "11"
+      ],
+      "id": 3
+    },
+    {
+      "title": "123",
+      "body": "321",
+      "tags": [
+        "gg",
+        "jj"
+      ],
+      "id": 4
+    }
+  ]
+}
